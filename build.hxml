@@ -1,0 +1,8 @@
+-cp src
+-cp deps/whiplash/src
+-js build/generated.js
+-main Application
+-lib phaser
+-lib ash
+-lib jquery-uipages
+
